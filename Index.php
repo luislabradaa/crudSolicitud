@@ -93,7 +93,7 @@
             </div>
             <div class="mb-3 form-check">
                 <label class="form-label">Comprobante de domicilio</label>
-                <input type="file" class="form-control" name="comp_nom">
+                <input type="file" class="form-control" name="comp_dom">
             </div>
             <button type="submit" class="btn btn-dark">Enviar solicitud</button>
         </form>
